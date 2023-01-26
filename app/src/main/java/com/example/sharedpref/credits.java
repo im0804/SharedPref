@@ -8,6 +8,9 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.TextView;
 
+/**
+ * Credits activity
+ */
 public class credits extends AppCompatActivity {
     TextView tvCredits;
 
